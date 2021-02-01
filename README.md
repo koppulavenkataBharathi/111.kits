@@ -7,3 +7,6 @@
 - rm(removing)
 - touch file name(creates a file)
 - nano file name(ediiit a file)
+- python file name(executes a.py file)
+- mv old new(change the filename)
+- rmdir(removing dir)
