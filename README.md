@@ -14,3 +14,6 @@
 - convert the files into tracking areas
 - create a snapshot by tracking into a staging area
 - commit the changes with messages
+## push and pull
+- git push remote name branch name
+- git pull remote name branch name
