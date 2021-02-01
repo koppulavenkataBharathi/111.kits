@@ -1,12 +1,12 @@
 # git project1-kits
 ## Basic linux commands
 - cd(change directory)
-- pwd(pressent working directory)
+- pwd(present working directory)
 - ls(list of directory)
 - mkdir(making a directory)
 - rm(removing)
 - touch file name(creates a file)
-- nano file name(ediiit a file)
+- nano file name(edit a file)
 - python file name(executes a.py file)
 - mv old new(change the filename)
 - rmdir(removing dir)
