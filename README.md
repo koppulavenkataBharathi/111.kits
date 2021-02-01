@@ -14,6 +14,10 @@
 - convert the files into tracking areas
 - create a snapshot by tracking into a staging area
 - commit the changes with messages
-## push and pull
+## push and pullt
 - git push remote name branch name
 - git pull remote name branch name
+## remote 
+- git add remote  remote name "repo link"
+## remote status
+- git remote -v
